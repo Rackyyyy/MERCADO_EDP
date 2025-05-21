@@ -1,0 +1,71 @@
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT 8 BACKEND.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.LoginForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT 8 BACKEND.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT 8 BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ACT 8 BACKEND.exe.config
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ACT 8 BACKEND.exe
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ACT 8 BACKEND.pdb
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ZstdSharp.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Google.Protobuf.pdb
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Google.Protobuf.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT 8 BA.4C707795.Up2Date
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT 8 BACKEND.exe
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT 8 BACKEND.pdb
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.ForgotPasswordForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.UserControlForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ClosedXML.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ClosedXML.Parser.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ExcelNumberFormat.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\RBush.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\SixLabors.Fonts.dll
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ClosedXML.pdb
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ClosedXML.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ClosedXML.Parser.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\ExcelNumberFormat.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\RBush.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\bin\Debug\SixLabors.Fonts.xml
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.ArchivedOrdersForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.GetPositionForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.InsertOrderForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.Login.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.MainForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.OrderTotalForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.PaymentForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.ReportForm.resources
+C:\Users\LENOVO\OneDrive\文档\EDP\Mercado_EDP\ACT 8 BACKEND\ACT 8 BACKEND\obj\Debug\ACT_8_BACKEND.UpdateOrderStatusForm.resources
